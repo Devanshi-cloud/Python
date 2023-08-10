@@ -3,6 +3,7 @@ Codes from Google Crash Course Python.
 https://www.coursera.org/account/accomplishments/verify/KN3V785B5K54?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
 
 My Learnings:-
+
 Python Unveiled: I uncovered the magic behind Python and its crucial role in automation. From everyday tasks to complex processes, Python's versatility had me nodding in agreement with its relevancy.
 
 Scripting Sorcery: Armed with Python's simplicity and power, I embarked on a scripting adventure. Crafting compact Python spells, I waved away manual drudgery and conjured automation to handle tasks with a flick of my keyboard.
